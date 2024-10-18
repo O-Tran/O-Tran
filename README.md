@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @O-Tran
-- 👀 I’m interested in Proteins / computational chemistry / relationship card games / fun projects 
+- 👀 I’m interested in Proteins / computational chemistry / fun projects 
 - 🌱 I’m currently learning how to make apps via React (Codeacademy), python, and maybe C++ 
       - Some projects I'm working on 
-          - Coding apps - multiplayer game 
+          - Apps development 
           - machine learning (pytorch) for protein building 
           - Computation chemistry, Drug binding 
           - Web building
